@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Paulo Matheus👋
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Paulosmelo&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulosmelo&show_icons=true&theme=dracula&layout=compact" />
+</a>
 
 <!--
 **Paulosmelo/Paulosmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
