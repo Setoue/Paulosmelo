@@ -2,15 +2,15 @@
 Currently, a Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) and Software Engineer Intern [@Viitra](https://brainyresolution.com/).
 
 ## 🤘 Quick facts about me
-❤️ Driven by **problem solving** and **learning** new technologies. Currently, excited about data science,data visualization and good development practices as SOLID and Design pattern. In my spare time I like to play different sports: volleyball, muay thai, soccer;  and stay with my people.
+❤️ Driven by **problem solving** and **learning** new technologies. Currently, excited about data science, data visualization and good development practices as SOLID and Design patterns. In my spare time I like to play different sports: volleyball, muay thai and soccer;  and stay with my people.
 
 
 ## 💻 Professional projects I work 
 - [**Redu**](https://redu.digital/): Redu is a learning environment using Opensource code [@Openredu](http://openredu.org/) and used by big Education companies like [@Sebrae](https://www.sebrae.com.br/sites/PortalSebrae) and [@Colegio Cognitivo](https://www.colegiocognitivo.com.br/)  as  their virtual environment.
 
-> Framework: Ruby on rails using Docker;
-> Front-end: HTML, CSS, JS, Jquery, eRuby and SCSS;
-> Back-end: Ruby and MySql.
+> **Framework:** Ruby on rails using Docker | 
+> **Front-end:** HTML, CSS, JS, Jquery, eRuby and SCSS | 
+> **Back-end:** Ruby and MySql.
 
 
 ## 📜 What have I been coding with?
@@ -24,7 +24,7 @@ Currently, a Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) a
   
 <!-- language icons -->
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin:0 auto;width:50%;"><br>
   <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg">  
   <img align="center" alt="Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
