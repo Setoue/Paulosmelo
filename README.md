@@ -6,7 +6,7 @@ Currently, a Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) a
 
 
 ## 💻 Professional projects I work 
-- [**Redu**](https://redu.digital/): Redu is a learning environment using Opensource code [@Openredu](http://openredu.org/) and used by big Education companies like [@Sebrae](https://www.sebrae.com.br/sites/PortalSebrae) and [@Colegio Cognitivo](https://www.colegiocognitivo.com.br/)  as  their virtual environment.
+- [**Redu**](https://redu.digital/): Redu is a learning environment using Opensource code [@Openredu](http://openredu.org/) and used by big Education companies like [@Sebrae](https://www.sebrae.com.br/sites/PortalSebrae) and [@Colegio Cognitivo](https://www.colegiocognitivo.com.br/)  as  their virtual environment. I'm working in new features and fixing bugs.
 
 > **Framework:** Ruby on rails using Docker | 
 > **Front-end:** HTML, CSS, JS, Jquery, eRuby and SCSS | 
