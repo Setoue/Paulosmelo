@@ -1,5 +1,5 @@
 # Hi there, I'm Paulo Matheus 🙋‍♂️👋
-Currently, a Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) and Software Engineer Intern [@Viitra](https://brainyresolution.com/).
+Currently, a Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) and Software Engineer Intern [@Viitra](https://www.viitra.com/home).
 
 ## 🤘 Quick facts about me
 ❤️ Driven by **problem solving** and **learning** new technologies. Currently, excited about data science, data visualization and good development practices as SOLID and Design patterns. In my spare time I like to play different sports: volleyball, muay thai and soccer;  and stay with my people.
